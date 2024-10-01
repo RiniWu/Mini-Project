@@ -19,26 +19,26 @@ Penjelasan :
 
 ![Screenshot 2024-10-01 104733](https://github.com/user-attachments/assets/689e6d6f-b598-49f7-9295-c0b91f942095)
 
-7. Lalu memasukkan percabangan 2 yang akan menampilkan jika harga barang > 250000, maka akan mendapatkan diskon sebesar 25% dan akan menampilkan total biaya keseluruhan dan total yang harus dibayar.
+6. Lalu memasukkan percabangan 2 yang akan menampilkan jika harga barang > 250000, maka akan mendapatkan diskon sebesar 25% dan akan menampilkan total biaya keseluruhan dan total yang harus dibayar.
 ![Screenshot 2024-10-01 093622](https://github.com/user-attachments/assets/f72eccee-55b7-4bdc-a80f-bada68672060)
 
-8. contoh output dapat diskon :
+7. contoh output dapat diskon :
 
 ![Screenshot 2024-10-01 102842](https://github.com/user-attachments/assets/359c5958-e021-4fba-8a2e-11388db2c2ca)
 
-9. contoh output tidak dapat diskon :
+8. contoh output tidak dapat diskon :
 
 ![Screenshot 2024-10-01 102906](https://github.com/user-attachments/assets/542c3e51-f3c1-483d-a7e6-c53c873ab2bc)
 
-10. Kemudian memasukkan perulangan "Apakah anda ingin menghitung total harga lagi", jika "iya" maka akan menampilkan lagi proses input harga barang dan jumlah pembelian, jika "Tidak" maka program selesai dan akan menampilkan "Penghitungan selesai. Thankyouuu!!!"
+9. Kemudian memasukkan perulangan "Apakah anda ingin menghitung total harga lagi", jika "iya" maka akan menampilkan lagi proses input harga barang dan jumlah pembelian, jika "Tidak" maka program selesai dan akan menampilkan "Penghitungan selesai. Thankyouuu!!!"
 
 ![Screenshot 2024-10-01 093723](https://github.com/user-attachments/assets/9d1101ca-b441-4c3a-be1d-8263e0ab4ce9)
 
-11. contoh output jika "iya" :
+10. contoh output jika "iya" :
 
 ![Screenshot 2024-10-01 102857](https://github.com/user-attachments/assets/025405f5-9275-447f-9d0a-e05c3b0a93bc)
 
-12. contoh output jika "tidak" :
+11. contoh output jika "tidak" :
 
 ![Screenshot 2024-10-01 102919](https://github.com/user-attachments/assets/aa49617a-a435-4fa9-8dca-931be919699a)
 
